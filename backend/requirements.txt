@@ -1,0 +1,4 @@
+Flask==2.2.5
+gtts==2.3.2
+pydub==0.25.1
+flask-cors==3.0.10
